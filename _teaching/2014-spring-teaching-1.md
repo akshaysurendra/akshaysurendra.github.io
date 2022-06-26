@@ -1,14 +1,29 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: ""
+permalink: /teaching/teaching-assistant
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+
+Teaching Assistant/Fellow
+======
+Graduate School of Arts and Sciences, Yale University \\
+
+  Seminar in Research Analysis \& Communication in Forest Ecology
+  
+======
+\hfill(Spring 2021)\\
+\textit{Data Exploration and Analysis} \hfill(Fall 2020)\\
+\textit{Environmental Data Visualization} \hfill(Spring 2020)
+
+MSc Wildlife Program, National Centre for Biological Sciences, India \\
+\textit{Introduction to R programming} \hfill(Fall 2018)
+
+Dept of Biological Sciences, BITS-Pilani Goa, India \\
+\textit{General Ecology} \hfill(Spring 2014) \\
+
 
 Heading 1
 ======
